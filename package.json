@@ -1,0 +1,19 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "A comprehensive blogging app with Frontend using react and backend using sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rithin7025/Blog-App.git"
+  },
+  "author": "Rithin Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rithin7025/Blog-App/issues"
+  },
+  "homepage": "https://github.com/Rithin7025/Blog-App#readme"
+}
